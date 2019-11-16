@@ -8,4 +8,10 @@ title: About
 
 # About page
 
-This page tells you a little bit about me.
+Research interest: Supply chain risk management under ambiguity, adaptive optimization, and forecasting.
+
+Courses taught: Operations management (Professional MBA / MiM), Operations Strategy (Fulltime MBA), Analytical Decision Making (Fulltime MSBA), Global operations managment (Undergraduate).
+
+Algorithm interest: Natural language processing, reinforcement learning
+
+Application interest: Microcontroller unit, near field communication application, e-ink display, arduino/andriod development.
